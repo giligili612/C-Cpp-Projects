@@ -1,0 +1,22 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp",
+        "compare": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "ranges": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    },
+    "clang-format.executable": "/usr/bin/clang-format",
+    "clang-format.style": "Google",
+    "editor.formatOnSave": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    }
+}
